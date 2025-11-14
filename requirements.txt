@@ -1,0 +1,18 @@
+pandas>=2.0.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+jupyter>=1.0.0
+notebook>=7.0.0
+yfinance>=0.2.30
+pandas-ta>=0.3.14
+plotly>=5.14.0
+
+# PDF Processing libraries
+PyMuPDF>=1.23.0
+pypdf>=3.17.0
+
+# Image Processing libraries
+opencv-python>=4.8.0
+Pillow>=10.0.0
+numpy>=1.24.0
+scikit-image>=0.21.0
