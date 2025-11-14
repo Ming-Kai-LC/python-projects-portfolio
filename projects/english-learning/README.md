@@ -4,7 +4,7 @@
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-A comprehensive, research-backed English grammar learning system built with Jupyter Notebooks. This pilot project covers **A1 (Beginner) level** with 10 interactive modules following proven pedagogical methodologies.
+A comprehensive, research-backed English grammar learning system built with Jupyter Notebooks. **A1 (Beginner) level is complete** with all **20 interactive modules**, and **A2 (Elementary) level has begun** with Batch 1 (Modules 1-5) focusing on past tense mastery, all following proven pedagogical methodologies.
 
 ## Overview
 
@@ -40,7 +40,7 @@ Based on research showing:
 ```
 english-learning/
 ├── notebooks/
-│   ├── A1/
+│   ├── A1/                     # 20 modules (COMPLETE)
 │   │   ├── Module_01/          # Verb "To Be"
 │   │   │   ├── 01_introduction.ipynb
 │   │   │   ├── 02_controlled_practice.ipynb
@@ -55,9 +55,16 @@ english-learning/
 │   │   ├── Module_07/          # Possessives
 │   │   ├── Module_08/          # Adjectives
 │   │   ├── Module_09/          # There Is/Are
-│   │   └── Module_10/          # Prepositions
+│   │   └── Module_10-20/       # ... (see module descriptions below)
+│   ├── A2/                     # Batch 1: 5 modules (Modules 1-5)
+│   │   ├── Module_01/          # Past Continuous Formation
+│   │   ├── Module_02/          # Past Continuous vs Past Simple
+│   │   ├── Module_03/          # Past Continuous for Interrupted Actions
+│   │   ├── Module_04/          # Present Perfect - Life Experiences
+│   │   └── Module_05/          # Present Perfect with Ever/Never
 │   ├── reviews/
-│   │   └── A1_Review_Modules_1-5.ipynb
+│   │   ├── A1_Review_Modules_1-5.ipynb
+│   │   └── ... (additional review notebooks)
 │   └── progress_tracker.ipynb
 ├── utils/
 │   ├── feedback_system.py      # Exercise validation and feedback
@@ -188,6 +195,74 @@ Express existence and location with there is/there are constructions.
 ### Module 10: Prepositions
 Place prepositions (in, on, at, under, behind) and time prepositions (in, on, at).
 
+### Module 11: Question Words
+Master What, Where, Who, When, Why, and How for asking and answering questions.
+
+### Module 12: Can/Can't
+Use the modal verb CAN to express ability and permission.
+
+### Module 13: This, That, These, Those - Deep Dive
+Extended practice with demonstratives for pointing and identifying things.
+
+### Module 14: Like, Love, Hate + -ing
+Express preferences and talk about hobbies using verbs with -ing forms.
+
+### Module 15: Past Simple - Was/Were
+Learn past tense of "to be" for describing past situations.
+
+### Module 16: Past Simple - Regular Verbs
+Form past tense with regular verbs using -ed endings and pronunciation rules.
+
+### Module 17: Past Simple - Irregular Verbs
+Master 50+ common irregular past tense verbs for storytelling.
+
+### Module 18: Going To Future
+Talk about future plans and predictions using "going to".
+
+### Module 19: Will Future
+Use "will" for spontaneous decisions, promises, and predictions.
+
+### Module 20: Adverbs of Frequency - Extended
+Master frequency expressions to describe how often you do things.
+
+---
+
+## A2 Level Modules (Elementary)
+
+**Status:** Batch 1 (Modules 1-5) - COMPLETE | Batch 2 (Modules 6-25) - Planned
+
+### Module 01: Past Continuous Formation
+Master was/were + verb-ing for actions in progress in the past. Learn spelling rules, time expressions, and uses for interrupted actions and story backgrounds.
+
+**Target:** 80 exercises | **Focus:** Enhanced grammar foundation
+**Key Topics:** Formation, spelling -ing rules, time expressions, parallel actions, background descriptions
+
+### Module 02: Past Continuous vs Past Simple
+Distinguish between completed actions (past simple) and ongoing actions (past continuous). Combine both tenses in complex sentences.
+
+**Target:** 85 exercises | **Focus:** Tense contrast and combination
+**Key Topics:** When to use each tense, interrupted actions, sequences vs background, time markers
+
+### Module 03: Past Continuous for Interrupted Actions
+Deep dive into using past continuous with past simple for interrupted actions. Master "when" and "while" clauses in storytelling.
+
+**Target:** 80 exercises | **Focus:** Complex sentence structures
+**Key Topics:** When/while clauses, interruption patterns, narrative techniques, temporal connections
+
+### Module 04: Present Perfect - Introduction (Life Experiences)
+Introduction to have/has + past participle for life experiences. Use with ever/never for asking about experiences.
+
+**Target:** 80 exercises | **Focus:** New tense introduction
+**Key Topics:** Formation, past participle forms, life experiences, ever/never, yet/already/just
+
+### Module 05: Present Perfect with Ever/Never
+Extended practice with present perfect for experiences. Master question formation with "Have you ever...?" and responses.
+
+**Target:** 80 exercises | **Focus:** Experience questions and discussions
+**Key Topics:** Ever/never usage, superlatives with present perfect, experience discussions, interview techniques
+
+---
+
 ## Technical Details
 
 ### Feedback System
@@ -228,12 +303,14 @@ Use the `generate_modules.py` script as a template:
 ### Scaling to Full Curriculum
 
 The system is designed to scale to **160 modules** (A1-C2):
-- **A1**: 20 modules (current pilot covers 10)
-- **A2**: 25 modules
-- **B1**: 30 modules
-- **B2**: 35 modules
-- **C1**: 30 modules
-- **C2**: 20 modules
+- **A1**: 20 modules ✓ COMPLETE (80 notebooks)
+- **A2**: 25 modules (Batch 1: Modules 1-5 ✓ COMPLETE - 20 notebooks | Batch 2: Modules 6-25 - Planned)
+- **B1**: 30 modules (Planned)
+- **B2**: 35 modules (Planned)
+- **C1**: 30 modules (Planned)
+- **C2**: 20 modules (Planned)
+
+**Current Status:** 100 interactive notebooks created across A1 and A2 levels
 
 See `English-Path.md` for the complete curriculum specification.
 
