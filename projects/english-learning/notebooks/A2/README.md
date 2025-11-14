@@ -5,9 +5,9 @@ Welcome to the A2 (Elementary) level of the English Learning Notebooks! This lev
 ## Overview
 
 **Target Level:** A2 (Elementary) according to CEFR
-**Current Status:** Batch 1 Complete (Modules 1-5) ✅ | Batch 2 Complete (Modules 6-10) ✅ | Batch 3 Planned (Modules 11-25)
+**Current Status:** Batch 1 Complete (Modules 1-5) ✅ | Batch 2 Complete (Modules 6-10) ✅ | Batch 3 Complete (Modules 11-15) ✅ | Batch 4 Planned (Modules 16-25)
 **Total A2 Modules Planned:** 25 modules
-**Completed:** 10/25 modules (40%)
+**Completed:** 15/25 modules (60%)
 **Estimated Time:** 100-150 hours (cumulative 180-200 hours including A1)
 
 ## What You'll Learn at A2 Level
@@ -190,6 +190,93 @@ At A2 level, you will be able to:
 
 ---
 
+## A2 Batch 3: Modal Verbs (Modules 11-15) ✅ COMPLETE
+
+### Module 11: Should/Shouldn't - Advice and Recommendations
+**Focus:** Give advice and make recommendations
+
+**What You'll Learn:**
+- Form affirmative and negative sentences with should/shouldn't
+- Use should/shouldn't to give advice and recommendations
+- Form questions with should and give appropriate responses
+- Express opinions about what is right or wrong
+- Distinguish between strong obligation (must) and advice (should)
+
+**Exercise Count:** 80 exercises
+**Estimated Time:** 4-5 hours
+
+**Start Here:** `Module_11/01_introduction.ipynb`
+
+---
+
+### Module 12: Must/Have To - Obligation and Necessity
+**Focus:** Express rules, requirements, and obligations
+
+**What You'll Learn:**
+- Form sentences with must and have to for obligations
+- Distinguish between must (internal obligation) and have to (external rules)
+- Use has to/have to correctly with different subjects
+- Form questions and negatives with have to (do/does + have to)
+- Understand when to use must vs have to in context
+
+**Exercise Count:** 85 exercises
+**Estimated Time:** 5-6 hours
+
+**Start Here:** `Module_12/01_introduction.ipynb`
+
+---
+
+### Module 13: Don't Have To vs Mustn't - No Obligation vs Prohibition
+**Focus:** Master the critical distinction between no obligation and prohibition
+
+**What You'll Learn:**
+- Understand don't have to = not necessary (no obligation)
+- Understand mustn't = prohibited (not allowed)
+- Recognize the critical meaning difference between the two
+- Use the correct form based on context (rules vs freedom)
+- Form sentences expressing lack of obligation vs prohibition
+
+**Exercise Count:** 82 exercises
+**Estimated Time:** 4-5 hours
+
+**Start Here:** `Module_13/01_introduction.ipynb`
+
+---
+
+### Module 14: May/Might/Could - Possibility and Permission
+**Focus:** Express uncertainty and ask for permission politely
+
+**What You'll Learn:**
+- Express possibility and uncertainty with may/might/could
+- Use may and could for polite permission requests
+- Understand the subtle differences between may/might/could
+- Make predictions about present and future situations
+- Form questions and negatives appropriately
+
+**Exercise Count:** 84 exercises
+**Estimated Time:** 5-6 hours
+
+**Start Here:** `Module_14/01_introduction.ipynb`
+
+---
+
+### Module 15: Would Like - Polite Requests and Preferences
+**Focus:** Express wants and preferences politely
+
+**What You'll Learn:**
+- Form sentences with would like + noun and would like to + verb
+- Distinguish between would like (polite) and want (direct)
+- Make polite offers and invitations using would like
+- Form questions: Would you like...? / What would you like?
+- Use contractions: I'd like, you'd like, he'd like
+
+**Exercise Count:** 85 exercises
+**Estimated Time:** 4-5 hours
+
+**Start Here:** `Module_15/01_introduction.ipynb`
+
+---
+
 ## How to Use This Level
 
 ### Prerequisites
@@ -302,11 +389,11 @@ After completing Batch 1 (Modules 1-5), you should be able to:
    - Write a short story using past continuous and past simple
    - Interview someone about their life experiences
 
-3. **Continue to Batch 2 (When Available):**
-   - Modules 6-10: Future and Time
-   - Modules 11-15: Modal Verbs
-   - Modules 16-20: Comparisons and Descriptions
-   - Modules 21-25: Advanced A2 Structures
+3. **Continue to Next Batch:**
+   - Batch 2 (Modules 6-10): Future and Time ✅ COMPLETE
+   - Batch 3 (Modules 11-15): Modal Verbs ✅ COMPLETE
+   - Batch 4 (Modules 16-20): Comparisons and Descriptions (Planned)
+   - Batch 5 (Modules 21-25): Advanced A2 Structures (Planned)
 
 ## Support
 
@@ -348,7 +435,7 @@ Module_XX/
 - 🧠 **Mistakes are learning opportunities.** Each error helps your brain remember the correct form.
 - 📈 **A2 is where you become conversational.** You're learning to express yourself naturally.
 - ⏰ **Consistency beats intensity.** 30 minutes daily > 3 hours once a week.
-- 🌟 **You're 15.6% through the full curriculum!** (25/160 modules completed across A1 and A2)
+- 🌟 **You're 21.9% through the full curriculum!** (35/160 modules completed across A1 and A2)
 
 ---
 

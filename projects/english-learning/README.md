@@ -4,7 +4,7 @@
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-A comprehensive, research-backed English grammar learning system built with Jupyter Notebooks. **A1 (Beginner) level is complete** with all **20 interactive modules**, and **A2 (Elementary) level is progressing** with Batches 1-2 (Modules 1-10) covering past tense mastery and future & time structures, all following proven pedagogical methodologies.
+A comprehensive, research-backed English grammar learning system built with Jupyter Notebooks. **A1 (Beginner) level is complete** with all **20 interactive modules**, and **A2 (Elementary) level is progressing** with Batches 1-3 (Modules 1-15) covering past tense mastery, future & time structures, and modal verbs, all following proven pedagogical methodologies.
 
 ## Overview
 
@@ -56,7 +56,7 @@ english-learning/
 │   │   ├── Module_08/          # Adjectives
 │   │   ├── Module_09/          # There Is/Are
 │   │   └── Module_10-20/       # ... (see module descriptions below)
-│   ├── A2/                     # Batches 1-2: 10 modules (Modules 1-10)
+│   ├── A2/                     # Batches 1-3: 15 modules (Modules 1-15)
 │   │   ├── Module_01/          # Past Continuous Formation
 │   │   ├── Module_02/          # Past Continuous vs Past Simple
 │   │   ├── Module_03/          # Past Continuous for Interrupted Actions
@@ -66,7 +66,12 @@ english-learning/
 │   │   ├── Module_07/          # Present Continuous for Future Arrangements
 │   │   ├── Module_08/          # Future Time Clauses
 │   │   ├── Module_09/          # Time Sequencing
-│   │   └── Module_10/          # Talking About Duration (for, since)
+│   │   ├── Module_10/          # Talking About Duration (for, since)
+│   │   ├── Module_11/          # Should/Shouldn't - Advice and Recommendations
+│   │   ├── Module_12/          # Must/Have To - Obligation and Necessity
+│   │   ├── Module_13/          # Don't Have To vs Mustn't
+│   │   ├── Module_14/          # May/Might/Could - Possibility and Permission
+│   │   └── Module_15/          # Would Like - Polite Requests
 │   ├── reviews/
 │   │   ├── A1_Review_Modules_1-5.ipynb
 │   │   └── ... (additional review notebooks)
@@ -234,7 +239,7 @@ Master frequency expressions to describe how often you do things.
 
 ## A2 Level Modules (Elementary)
 
-**Status:** Batch 1 (Modules 1-5) - COMPLETE ✅ | Batch 2 (Modules 6-10) - COMPLETE ✅ | Batch 3 (Modules 11-25) - Planned
+**Status:** Batch 1 (Modules 1-5) - COMPLETE ✅ | Batch 2 (Modules 6-10) - COMPLETE ✅ | Batch 3 (Modules 11-15) - COMPLETE ✅ | Batch 4 (Modules 16-25) - Planned
 
 ### Module 01: Past Continuous Formation
 Master was/were + verb-ing for actions in progress in the past. Learn spelling rules, time expressions, and uses for interrupted actions and story backgrounds.
@@ -296,6 +301,36 @@ Distinguish between 'for' (length of time) and 'since' (starting point). Essenti
 **Target:** 84 exercises | **Focus:** Duration expressions
 **Key Topics:** For + time period, since + time point, How long questions, present perfect with for/since
 
+### Module 11: Should/Shouldn't - Advice and Recommendations
+Give advice and make recommendations using should/shouldn't. Express opinions about what is right or wrong.
+
+**Target:** 80 exercises | **Focus:** Advice and suggestions
+**Key Topics:** Formation with should/shouldn't, giving advice, making recommendations, expressing opinions, should vs must
+
+### Module 12: Must/Have To - Obligation and Necessity
+Express rules, requirements, and obligations using must and have to. Understand the difference between internal and external obligations.
+
+**Target:** 85 exercises | **Focus:** Obligations and rules
+**Key Topics:** Must vs have to, internal vs external obligation, questions with have to, expressing necessity
+
+### Module 13: Don't Have To vs Mustn't - No Obligation vs Prohibition
+Master the critical distinction between 'don't have to' (not necessary) and 'mustn't' (prohibited/not allowed).
+
+**Target:** 82 exercises | **Focus:** Meaning distinction
+**Key Topics:** No obligation vs prohibition, don't/doesn't have to, mustn't, context-based usage
+
+### Module 14: May/Might/Could - Possibility and Permission
+Express possibility, uncertainty, and ask for permission politely using may, might, and could.
+
+**Target:** 84 exercises | **Focus:** Possibility and permission
+**Key Topics:** Expressing possibility, making predictions, asking permission, subtle differences between may/might/could
+
+### Module 15: Would Like - Polite Requests and Preferences
+Make polite requests, offers, and express preferences using 'would like' instead of the more direct 'want'.
+
+**Target:** 85 exercises | **Focus:** Polite communication
+**Key Topics:** Would like + noun, would like to + verb, contractions, making offers, polite requests
+
 ---
 
 ## Technical Details
@@ -339,13 +374,13 @@ Use the `generate_modules.py` script as a template:
 
 The system is designed to scale to **160 modules** (A1-C2):
 - **A1**: 20 modules ✓ COMPLETE (80 notebooks)
-- **A2**: 25 modules (Batch 1: Modules 1-5 ✓ - 20 notebooks | Batch 2: Modules 6-10 ✓ - 20 notebooks | Batch 3: Modules 11-25 - Planned)
+- **A2**: 25 modules (Batch 1: Modules 1-5 ✓ - 20 notebooks | Batch 2: Modules 6-10 ✓ - 20 notebooks | Batch 3: Modules 11-15 ✓ - 20 notebooks | Batch 4: Modules 16-25 - Planned)
 - **B1**: 30 modules (Planned)
 - **B2**: 35 modules (Planned)
 - **C1**: 30 modules (Planned)
 - **C2**: 20 modules (Planned)
 
-**Current Status:** 120 interactive notebooks created across A1 and A2 levels (30/160 modules = 18.75%)
+**Current Status:** 140 interactive notebooks created across A1 and A2 levels (35/160 modules = 21.9%)
 
 See `English-Path.md` for the complete curriculum specification.
 
