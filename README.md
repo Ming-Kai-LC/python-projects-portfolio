@@ -81,6 +81,56 @@ A comprehensive Malaysian stock market (KLSE/Bursa Malaysia) analysis tool with 
 
 ---
 
+### 3. Malaysian Stock Technical Analysis - Learning Journey
+**Location:** `projects/malaysia-stock-technical-analysis/`
+
+A comprehensive, beginner-friendly guide to learning technical analysis using real Malaysian stock data. This project focuses on UUE (Universal Unity Equity) stock as a practical case study to master technical analysis concepts through 6 progressive Jupyter notebooks.
+
+**Key Features:**
+- Complete beginner-friendly technical analysis course
+- 6 progressive learning notebooks (Introduction → Advanced Dashboard)
+- Real-time Malaysian stock data (UUE.KL and others)
+- Interactive charts and visualizations
+- Hands-on exercises and practice opportunities
+- Comprehensive analysis dashboard combining all indicators
+- Step-by-step learning with clear explanations
+
+**What You'll Learn:**
+- Technical analysis fundamentals and principles
+- Reading and interpreting candlestick charts
+- Support and resistance level identification
+- Moving Averages (SMA and EMA) for trend analysis
+- Golden Cross and Death Cross patterns
+- RSI (Relative Strength Index) for momentum
+- MACD (Moving Average Convergence Divergence)
+- Volume analysis and confirmation techniques
+- Building a complete technical analysis framework
+
+**Skills Covered:**
+- Technical analysis concepts and indicators
+- Time series data visualization
+- Pattern recognition in price charts
+- Multi-indicator analysis and confirmation
+- Trading signal generation
+- Risk assessment and decision making
+- Creating interactive financial dashboards
+
+**Technologies:**
+- yfinance (free stock data)
+- pandas-ta (technical analysis library)
+- plotly (interactive charts)
+- pandas, numpy, matplotlib, seaborn
+
+**Perfect For:**
+- Complete beginners to technical analysis
+- Investors wanting to learn Malaysian stock analysis
+- Students building financial analysis skills
+- Anyone interested in data-driven investment decisions
+
+[View Project Details →](projects/malaysia-stock-technical-analysis/README.md)
+
+---
+
 ## 🚀 Getting Started
 
 ### Initial Setup
