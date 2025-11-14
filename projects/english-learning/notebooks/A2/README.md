@@ -5,8 +5,9 @@ Welcome to the A2 (Elementary) level of the English Learning Notebooks! This lev
 ## Overview
 
 **Target Level:** A2 (Elementary) according to CEFR
-**Current Status:** Batch 1 Complete (Modules 1-5) | Batch 2 Planned (Modules 6-25)
+**Current Status:** Batch 1 Complete (Modules 1-5) ✅ | Batch 2 Complete (Modules 6-10) ✅ | Batch 3 Planned (Modules 11-25)
 **Total A2 Modules Planned:** 25 modules
+**Completed:** 10/25 modules (40%)
 **Estimated Time:** 100-150 hours (cumulative 180-200 hours including A1)
 
 ## What You'll Learn at A2 Level
@@ -99,6 +100,93 @@ At A2 level, you will be able to:
 **Estimated Time:** 4-5 hours
 
 **Start Here:** `Module_05/01_introduction.ipynb`
+
+---
+
+## A2 Batch 2: Future & Time Structures (Modules 6-10) ✅ COMPLETE
+
+### Module 06: Future - Going To vs Will Review
+**Focus:** Deep dive into the distinction between future forms
+
+**What You'll Learn:**
+- Distinguish clearly between 'going to' and 'will' for different contexts
+- Use 'going to' for pre-planned intentions and evidence-based predictions
+- Use 'will' for spontaneous decisions, promises, and predictions
+- Form questions and negatives accurately with both structures
+- Choose the appropriate future form based on context and meaning
+
+**Exercise Count:** 85 exercises
+**Estimated Time:** 4-5 hours
+
+**Start Here:** `Module_06/01_introduction.ipynb`
+
+---
+
+### Module 07: Present Continuous for Future Arrangements
+**Focus:** Express fixed future plans and appointments
+
+**What You'll Learn:**
+- Understand how present continuous expresses definite future arrangements
+- Distinguish between present continuous for 'now' and 'future'
+- Form sentences about fixed plans with appropriate time markers
+- Differentiate between present continuous, going to, and will for future
+- Use common verbs for arrangements (meet, see, visit, fly, leave)
+
+**Exercise Count:** 85 exercises
+**Estimated Time:** 4-5 hours
+
+**Start Here:** `Module_07/01_introduction.ipynb`
+
+---
+
+### Module 08: Future Time Clauses (when, as soon as, until)
+**Focus:** Connect future actions with time conjunctions
+
+**What You'll Learn:**
+- Form complex sentences with future time clauses correctly
+- Apply the rule: present tense in time clause, future in main clause
+- Use when, as soon as, until, before, after to connect actions
+- Understand sequence and timing relationships between actions
+- Avoid the common error of using 'will' in time clauses
+
+**Exercise Count:** 82 exercises
+**Estimated Time:** 5-6 hours
+
+**Start Here:** `Module_08/01_introduction.ipynb`
+
+---
+
+### Module 09: Time Sequencing (before, after, then, finally)
+**Focus:** Organize events and actions in chronological order
+
+**What You'll Learn:**
+- Organize events and actions in logical time order
+- Use before, after, then, next, finally to show sequence
+- Construct narratives with clear chronological flow
+- Distinguish between conjunctions (before/after) and adverbs (then/finally)
+- Apply correct verb tenses when sequencing past, present, and future actions
+
+**Exercise Count:** 83 exercises
+**Estimated Time:** 4-5 hours
+
+**Start Here:** `Module_09/01_introduction.ipynb`
+
+---
+
+### Module 10: Talking About Duration (for, since)
+**Focus:** Express length of time and starting points
+
+**What You'll Learn:**
+- Distinguish between 'for' (length of time) and 'since' (starting point)
+- Use 'for' with time periods (days, weeks, years) correctly
+- Use 'since' with specific points in time (dates, events)
+- Combine for/since with appropriate verb tenses (primarily present perfect)
+- Ask and answer 'How long...?' questions about duration
+
+**Exercise Count:** 84 exercises
+**Estimated Time:** 4-5 hours
+
+**Start Here:** `Module_10/01_introduction.ipynb`
 
 ---
 

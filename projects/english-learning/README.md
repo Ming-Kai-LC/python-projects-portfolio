@@ -4,7 +4,7 @@
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-A comprehensive, research-backed English grammar learning system built with Jupyter Notebooks. **A1 (Beginner) level is complete** with all **20 interactive modules**, and **A2 (Elementary) level has begun** with Batch 1 (Modules 1-5) focusing on past tense mastery, all following proven pedagogical methodologies.
+A comprehensive, research-backed English grammar learning system built with Jupyter Notebooks. **A1 (Beginner) level is complete** with all **20 interactive modules**, and **A2 (Elementary) level is progressing** with Batches 1-2 (Modules 1-10) covering past tense mastery and future & time structures, all following proven pedagogical methodologies.
 
 ## Overview
 
@@ -56,12 +56,17 @@ english-learning/
 │   │   ├── Module_08/          # Adjectives
 │   │   ├── Module_09/          # There Is/Are
 │   │   └── Module_10-20/       # ... (see module descriptions below)
-│   ├── A2/                     # Batch 1: 5 modules (Modules 1-5)
+│   ├── A2/                     # Batches 1-2: 10 modules (Modules 1-10)
 │   │   ├── Module_01/          # Past Continuous Formation
 │   │   ├── Module_02/          # Past Continuous vs Past Simple
 │   │   ├── Module_03/          # Past Continuous for Interrupted Actions
 │   │   ├── Module_04/          # Present Perfect - Life Experiences
-│   │   └── Module_05/          # Present Perfect with Ever/Never
+│   │   ├── Module_05/          # Present Perfect with Ever/Never
+│   │   ├── Module_06/          # Future: Going To vs Will Review
+│   │   ├── Module_07/          # Present Continuous for Future Arrangements
+│   │   ├── Module_08/          # Future Time Clauses
+│   │   ├── Module_09/          # Time Sequencing
+│   │   └── Module_10/          # Talking About Duration (for, since)
 │   ├── reviews/
 │   │   ├── A1_Review_Modules_1-5.ipynb
 │   │   └── ... (additional review notebooks)
@@ -229,7 +234,7 @@ Master frequency expressions to describe how often you do things.
 
 ## A2 Level Modules (Elementary)
 
-**Status:** Batch 1 (Modules 1-5) - COMPLETE | Batch 2 (Modules 6-25) - Planned
+**Status:** Batch 1 (Modules 1-5) - COMPLETE ✅ | Batch 2 (Modules 6-10) - COMPLETE ✅ | Batch 3 (Modules 11-25) - Planned
 
 ### Module 01: Past Continuous Formation
 Master was/were + verb-ing for actions in progress in the past. Learn spelling rules, time expressions, and uses for interrupted actions and story backgrounds.
@@ -260,6 +265,36 @@ Extended practice with present perfect for experiences. Master question formatio
 
 **Target:** 80 exercises | **Focus:** Experience questions and discussions
 **Key Topics:** Ever/never usage, superlatives with present perfect, experience discussions, interview techniques
+
+### Module 06: Future - Going To vs Will Review
+Deep dive into distinguishing between the two main future forms. Learn when to use each based on context and meaning.
+
+**Target:** 85 exercises | **Focus:** Future form mastery
+**Key Topics:** Going to for intentions/evidence-based predictions, will for spontaneous decisions/promises, context-based selection
+
+### Module 07: Present Continuous for Future Arrangements
+Use present continuous to express fixed future plans and appointments. Distinguish from other future forms.
+
+**Target:** 85 exercises | **Focus:** Definite arrangements
+**Key Topics:** Present continuous for future, time markers (essential), meet/see/visit verbs, arrangement vs intention
+
+### Module 08: Future Time Clauses (when, as soon as, until)
+Master time clauses with future reference. Learn the crucial rule: present tense in time clause, future in main clause.
+
+**Target:** 82 exercises | **Focus:** Complex future sentences
+**Key Topics:** When/as soon as/until/before/after, present simple in time clauses, sequence and timing
+
+### Module 09: Time Sequencing (before, after, then, finally)
+Organize events and actions in logical chronological order across all tenses. Build coherent narratives.
+
+**Target:** 83 exercises | **Focus:** Narrative sequencing
+**Key Topics:** Before/after conjunctions, then/finally adverbs, chronological flow, tense consistency in sequences
+
+### Module 10: Talking About Duration (for, since)
+Distinguish between 'for' (length of time) and 'since' (starting point). Essential for present perfect mastery.
+
+**Target:** 84 exercises | **Focus:** Duration expressions
+**Key Topics:** For + time period, since + time point, How long questions, present perfect with for/since
 
 ---
 
@@ -304,13 +339,13 @@ Use the `generate_modules.py` script as a template:
 
 The system is designed to scale to **160 modules** (A1-C2):
 - **A1**: 20 modules ✓ COMPLETE (80 notebooks)
-- **A2**: 25 modules (Batch 1: Modules 1-5 ✓ COMPLETE - 20 notebooks | Batch 2: Modules 6-25 - Planned)
+- **A2**: 25 modules (Batch 1: Modules 1-5 ✓ - 20 notebooks | Batch 2: Modules 6-10 ✓ - 20 notebooks | Batch 3: Modules 11-25 - Planned)
 - **B1**: 30 modules (Planned)
 - **B2**: 35 modules (Planned)
 - **C1**: 30 modules (Planned)
 - **C2**: 20 modules (Planned)
 
-**Current Status:** 100 interactive notebooks created across A1 and A2 levels
+**Current Status:** 120 interactive notebooks created across A1 and A2 levels (30/160 modules = 18.75%)
 
 See `English-Path.md` for the complete curriculum specification.
 
