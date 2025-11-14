@@ -26,9 +26,10 @@ Get productive quickly with the minimum essential knowledge:
    - Built-in commands
    - Creating custom commands
 
-3. **Notebook 07: Tools Mastery** ⭐ (60-90 min)
-   - Essential tools (Read, Write, Edit, Bash, Grep, Glob)
-   - Basic workflows
+3. **Notebook 07a: Essential Tools** ⭐ (30-45 min)
+   - Core file and search tools
+   - Basic bash execution
+   - Simple workflows
 
 4. **Notebook 09: Project Setup** ⭐ (45-60 min)
    - Project configuration
@@ -43,10 +44,11 @@ Complete learning experience covering all features:
 4. **Notebook 04: Skills Development** - ⭐⭐ Intermediate (90-120 min)
 5. **Notebook 05: Slash Commands** - ⭐ Beginner (30-45 min)
 6. **Notebook 06: MCP Integrations** - ⭐⭐⭐ Advanced (90-120 min)
-7. **Notebook 07: Tools Mastery** - ⭐⭐ Intermediate (60-90 min)
-8. **Notebook 08: Git Workflows** - ⭐⭐ Intermediate (60-75 min)
-9. **Notebook 09: Project Setup** - ⭐⭐ Intermediate (45-60 min)
-10. **Notebook 10: Advanced Techniques** - ⭐⭐⭐⭐ Advanced (90-120 min)
+7. **Notebook 07a: Essential Tools** - ⭐ Beginner (30-45 min)
+8. **Notebook 07b: Advanced Tools** - ⭐⭐ Intermediate (45-60 min)
+9. **Notebook 08: Git Workflows** - ⭐⭐ Intermediate (60-75 min)
+10. **Notebook 09: Project Setup** - ⭐⭐ Intermediate (45-60 min)
+11. **Notebook 10: Advanced Techniques** - ⭐⭐⭐⭐ Advanced (90-120 min)
 
 ### By Use Case
 **"I want to automate my development workflow"**
@@ -150,16 +152,33 @@ Complete learning experience covering all features:
 
 ---
 
-### 07: Tools Mastery (⭐⭐ Intermediate)
+### 07a: Essential Tools (⭐ Beginner)
 **What you'll learn:**
-- Essential tools: Read, Write, Edit, Grep, Glob, Bash
-- Advanced tools: Todo, Web, Notebooks
-- Tool permissions and security
-- Combining tools for complex workflows
-- Performance optimization
+- Core file tools: Read, Write, Edit
+- Search tools: Grep, Glob
+- Basic Bash command execution
+- Simple tool workflows
+- Essential best practices
 
 **Prerequisites:** Notebook 01
-**Estimated time:** 60-90 minutes
+**Estimated time:** 30-45 minutes
+
+**Note:** Complete this before moving to 07b!
+
+---
+
+### 07b: Advanced Tools & Workflows (⭐⭐ Intermediate)
+**What you'll learn:**
+- TodoWrite for task management
+- Web tools (WebFetch, WebSearch)
+- Notebook editing (NotebookEdit)
+- Background processes (BashOutput, KillShell)
+- Advanced workflow patterns
+- Tool permissions and security
+- Performance optimization
+
+**Prerequisites:** Notebook 01, **07a Essential Tools (required!)**
+**Estimated time:** 45-60 minutes
 
 ---
 
@@ -283,7 +302,8 @@ Use this checklist to track your progress:
 - [ ] 04: Skills Development
 - [ ] 05: Slash Commands
 - [ ] 06: MCP Integrations
-- [ ] 07: Tools Mastery
+- [ ] 07a: Essential Tools
+- [ ] 07b: Advanced Tools
 - [ ] 08: Git Workflows
 - [ ] 09: Project Setup
 - [ ] 10: Advanced Techniques
@@ -361,14 +381,15 @@ Start: Notebook 01 (Always start here)
 
 ```
 claude-integration/
-├── notebooks/          # 10 comprehensive learning notebooks
+├── notebooks/          # 11 comprehensive learning notebooks
 │   ├── 01_claude_code_basics.ipynb
 │   ├── 02_subagents_guide.ipynb
 │   ├── 03_hooks_automation.ipynb
 │   ├── 04_skills_development.ipynb
 │   ├── 05_slash_commands.ipynb
 │   ├── 06_mcp_integrations.ipynb
-│   ├── 07_tools_mastery.ipynb
+│   ├── 07a_essential_tools.ipynb
+│   ├── 07b_advanced_tools.ipynb
 │   ├── 08_git_workflows.ipynb
 │   ├── 09_project_setup.ipynb
 │   └── 10_advanced_techniques.ipynb
