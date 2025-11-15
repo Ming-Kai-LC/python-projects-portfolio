@@ -1,6 +1,6 @@
 # 📈 Malaysian Stock Technical Analysis - Learning Journey
 
-A comprehensive, beginner-friendly guide to learning technical analysis using real Malaysian stock data. This project focuses on **UUE (Universal Unity Equity) stock** as a practical case study to master technical analysis concepts.
+A comprehensive, beginner-friendly guide to learning technical analysis using real Malaysian stock data. This project focuses on **UUE Holdings Berhad (Stock Code: 0310)** as a practical case study to master technical analysis concepts.
 
 ## 🎯 Project Overview
 
@@ -15,9 +15,11 @@ This project is designed for **complete beginners** who want to learn how techni
 - **Free Tools**: All data sources are free and legal (Yahoo Finance)
 - **Malaysian Market**: Specifically tailored for KLSE stocks
 
-### Focus Stock: UUE (Universal Unity Equity)
+### Focus Stock: UUE Holdings Berhad
 
-We use **UUE.KL** (Universal Unity Equity) as our primary learning example, but the concepts apply to all Malaysian stocks.
+We use **0310.KL** (UUE Holdings Berhad) as our primary learning example, but the concepts apply to all Malaysian stocks.
+
+**Why 0310.KL?** Malaysian stocks use numeric codes on Bursa Malaysia. The ticker format is `[Stock Code].KL` where `.KL` indicates Kuala Lumpur stock exchange.
 
 ## 📚 Learning Path
 
@@ -176,12 +178,12 @@ import yfinance as yf
 import pandas as pd
 import matplotlib.pyplot as plt
 
-# Fetch UUE stock data
-uue = yf.Ticker("UUE.KL")
+# Fetch UUE Holdings Berhad stock data (Stock Code: 0310)
+uue = yf.Ticker("0310.KL")
 data = uue.history(period="1y")
 
 # Plot the closing price
-data['Close'].plot(figsize=(12, 6), title='UUE Stock Price - 1 Year')
+data['Close'].plot(figsize=(12, 6), title='UUE Holdings Berhad (0310.KL) - 1 Year')
 plt.ylabel('Price (RM)')
 plt.show()
 ```
@@ -225,13 +227,13 @@ After completing this project, you will be able to:
 
 ## 📈 Malaysian Stocks Coverage
 
-While this project focuses on **UUE.KL** for learning, the concepts apply to all KLSE stocks:
+While this project focuses on **0310.KL** (UUE Holdings Berhad) for learning, the concepts apply to all KLSE stocks:
 
 ### Popular Malaysian Stocks (Examples)
 
 | Company | Ticker | Sector |
 |---------|--------|--------|
-| Universal Unity Equity | UUE.KL | Our main focus |
+| UUE Holdings Berhad | 0310.KL | Industrial/Construction (Our main focus) |
 | Maybank | 1155.KL | Banking |
 | Public Bank | 1295.KL | Banking |
 | Tenaga Nasional | 5296.KL | Utilities |
@@ -407,7 +409,7 @@ MIT License - Feel free to use this project for your own learning!
 ### Troubleshooting
 
 **Issue**: Can't fetch UUE data
-- **Solution**: Check ticker format is `UUE.KL` with `.KL` suffix
+- **Solution**: Use stock code `0310.KL` (NOT `UUE.KL`). Malaysian stocks require numeric codes.
 
 **Issue**: Indicators not calculating
 - **Solution**: Ensure you have enough historical data (at least 200 days for MA200)

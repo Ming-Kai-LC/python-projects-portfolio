@@ -5,10 +5,10 @@ Welcome to the A2 (Elementary) level of the English Learning Notebooks! This lev
 ## Overview
 
 **Target Level:** A2 (Elementary) according to CEFR
-**Current Status:** Batch 1 Complete (Modules 1-5) ✅ | Batch 2 Complete (Modules 6-10) ✅ | Batch 3 Complete (Modules 11-15) ✅ | Batch 4 Complete (Modules 16-20) ✅ | Batch 5 Planned (Modules 21-25)
-**Total A2 Modules Planned:** 25 modules
-**Completed:** 20/25 modules (80%)
-**Estimated Time:** 100-150 hours (cumulative 180-200 hours including A1)
+**Current Status:** ALL BATCHES COMPLETE ✅ (Batches 1-5, Modules 1-25) - A2 LEVEL COMPLETE
+**Total A2 Modules:** 25 modules
+**Completed:** 25/25 modules (100%)
+**Total Time:** 125-155 hours (cumulative 205-255 hours including A1)
 
 ## What You'll Learn at A2 Level
 
@@ -364,6 +364,93 @@ At A2 level, you will be able to:
 
 ---
 
+## A2 Batch 5: Advanced Structures and Integration (Modules 21-25) ✅ COMPLETE
+
+### Module 21: Zero and First Conditional - If Clauses and Real Possibilities
+**Focus:** Expressing Conditions and Future Possibilities
+
+**What You'll Learn:**
+- Form zero conditional for general truths and scientific facts
+- Form first conditional for real future possibilities
+- Understand the difference between zero and first conditional
+- Use correct verb forms in if-clause and main clause
+- Avoid common error: using 'will' in the if-clause
+
+**Exercise Count:** 85 exercises
+**Estimated Time:** 5-6 hours
+
+**Start Here:** `Module_21/01_introduction.ipynb`
+
+---
+
+### Module 22: Connectors and Linking Words - Because, So, But, Although
+**Focus:** Connecting Ideas Logically
+
+**What You'll Learn:**
+- Use 'because' and 'so' to connect cause and result
+- Understand the difference between 'because' (reason) and 'so' (result)
+- Use 'but' to express contrast between ideas
+- Use 'although' for concession (despite contrast)
+- Apply correct punctuation with connectors
+
+**Exercise Count:** 84 exercises
+**Estimated Time:** 5-6 hours
+
+**Start Here:** `Module_22/01_introduction.ipynb`
+
+---
+
+### Module 23: Relative Clauses - Who, Which, That, Where
+**Focus:** Describing and Defining People, Things, and Places
+
+**What You'll Learn:**
+- Use 'who' for people in relative clauses
+- Use 'which' and 'that' for things in relative clauses
+- Use 'where' for places in relative clauses
+- Form sentences with relative clauses correctly
+- Understand defining relative clauses (no commas at A2)
+
+**Exercise Count:** 85 exercises
+**Estimated Time:** 5-6 hours
+
+**Start Here:** `Module_23/01_introduction.ipynb`
+
+---
+
+### Module 24: Question Formation - Comprehensive Review Across All Tenses
+**Focus:** Mastering All Question Types
+
+**What You'll Learn:**
+- Form yes/no questions with be, do/does/did across all tenses
+- Form wh-questions correctly with proper word order
+- Understand subject questions vs object questions
+- Form questions with modals and perfect tenses
+- Review and integrate all A2 question types
+
+**Exercise Count:** 82 exercises
+**Estimated Time:** 5-6 hours
+
+**Start Here:** `Module_24/01_introduction.ipynb`
+
+---
+
+### Module 25: A2 Consolidation and Review - Integration and Real-World Communication
+**Focus:** Bringing It All Together - B1 Preparation
+
+**What You'll Learn:**
+- Integrate all A2 tenses naturally in communication
+- Combine modals, conditionals, and connectors effectively
+- Use complex sentences with multiple structures
+- Demonstrate A2 mastery across all skills
+- Prepare for B1 transition with preview
+
+**Exercise Count:** 99 exercises
+**Estimated Time:** 6-8 hours
+
+**Start Here:** `Module_25/01_introduction.ipynb`
+
+---
+
 ## How to Use This Level
 
 ### Prerequisites
@@ -522,7 +609,7 @@ Module_XX/
 - 🧠 **Mistakes are learning opportunities.** Each error helps your brain remember the correct form.
 - 📈 **A2 is where you become conversational.** You're learning to express yourself naturally.
 - ⏰ **Consistency beats intensity.** 30 minutes daily > 3 hours once a week.
-- 🌟 **You're 25% through the full curriculum!** (40/160 modules completed across A1 and A2)
+- 🌟 **You're 28% through the full curriculum!** (45/160 modules completed: A1 complete + A2 complete = 45 modules)
 
 ---
 

@@ -1,0 +1,109 @@
+# Environment Variables
+.env
+.env.local
+.env.*.local
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+*.whl
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+.jupyter/
+notebooks/**/.ipynb_checkpoints/
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv/
+
+# Data Directory (Generated files, don't commit)
+data/
+data/**/*
+notebooks/outputs/
+notebooks/outputs/**/*
+
+# Docker volumes and data
+docker-data/
+n8n-data/
+postgres-data/
+
+# Logs
+*.log
+logs/
+*.log.*
+
+# OS Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+
+# Temporary Files
+temp/
+tmp/
+*.tmp
+*.temp
+*.bak
+*.backup
+
+# Backups
+backups/
+*.sql
+*.dump
+
+# Credentials and Secrets
+credentials.json
+secrets.json
+*.pem
+*.key
+*.crt
+
+# N8n specific
+# Uncomment if you don't want to track exported workflows
+# workflows/*.json
+# But keep the examples:
+# !workflows/01_*.json
+# !workflows/02_*.json
+# !workflows/03_*.json
+
+# Node modules (if you add any JS/Node components)
+node_modules/
+package-lock.json
+yarn.lock
+
+# Test files
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.hypothesis/
+
+# Keep these directories but ignore their contents
+!data/.gitkeep
+!notebooks/outputs/.gitkeep

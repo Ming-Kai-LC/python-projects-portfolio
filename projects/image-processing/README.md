@@ -14,7 +14,13 @@ This project is well-organized for easy navigation:
   - `00_setup_and_introduction.ipynb` ✅
   - `01_getting_started_opencv.ipynb` ✅
   - `02_image_basics_roi.ipynb` ✅
-  - `03-09` ⏳ Coming soon
+  - `03_image_processing_fundamentals.ipynb` ✅
+  - `04_image_transformations.ipynb` ✅
+  - `05_morphological_operations.ipynb` ✅
+  - `06_image_segmentation.ipynb` ✅
+  - `07_feature_detection.ipynb` ✅
+  - `08_feature_matching.ipynb` ✅
+  - `09_hand_gesture_recognition.ipynb` ✅
   - `outputs/` - Generated files organized by notebook
 
 - **`sample_images/`** - Reusable test images for practice
@@ -315,7 +321,11 @@ image-processing/
 │   ├── 02_image_basics_roi.ipynb          # ✅ Image basics & ROI
 │   ├── 03_image_processing_fundamentals.ipynb # ✅ Processing fundamentals
 │   ├── 04_image_transformations.ipynb     # ✅ Image transformations
-│   ├── 05-09 (coming soon)                # ⏳ Future notebooks
+│   ├── 05_morphological_operations.ipynb  # ✅ Morphological operations
+│   ├── 06_image_segmentation.ipynb        # ✅ Image segmentation
+│   ├── 07_feature_detection.ipynb         # ✅ Feature detection
+│   ├── 08_feature_matching.ipynb          # ✅ Feature matching
+│   ├── 09_hand_gesture_recognition.ipynb  # ✅ Hand gesture recognition
 │   └── outputs/                           # Generated files organized by notebook
 │       ├── notebook_00/
 │       └── notebook_01/
@@ -609,4 +619,4 @@ MAGENTA = (255, 0, 255)
 
 **Version**: 1.0
 **Last Updated**: 2025-11-14
-**Status**: 5 of 9 notebooks completed (56% complete)
+**Status**: 9 of 9 notebooks completed (100% complete) ✅

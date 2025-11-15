@@ -244,7 +244,7 @@ Master frequency expressions to describe how often you do things.
 
 ## A2 Level Modules (Elementary)
 
-**Status:** Batch 1 (Modules 1-5) - COMPLETE ✅ | Batch 2 (Modules 6-10) - COMPLETE ✅ | Batch 3 (Modules 11-15) - COMPLETE ✅ | Batch 4 (Modules 16-20) - COMPLETE ✅ | Batch 5 (Modules 21-25) - Planned
+**Status:** ALL BATCHES COMPLETE ✅ (Batches 1-5, Modules 1-25) - A2 LEVEL COMPLETE
 
 ### Module 01: Past Continuous Formation
 Master was/were + verb-ing for actions in progress in the past. Learn spelling rules, time expressions, and uses for interrupted actions and story backgrounds.
@@ -368,6 +368,46 @@ Add depth and precision to descriptions using intensifiers. Master very, quite, 
 
 ---
 
+### Module 21: Zero and First Conditional - If Clauses and Real Possibilities
+Express conditions and future possibilities with if-clauses. Master zero conditional for general truths and first conditional for real future possibilities.
+
+**Target:** 85 exercises | **Focus:** Conditionals
+**Key Topics:** zero conditional structure, first conditional structure, if + present, avoiding 'will' in if-clause
+
+---
+
+### Module 22: Connectors and Linking Words - Because, So, But, Although
+Connect ideas logically with essential connectors. Master cause-result relationships with because/so and contrast with but/although.
+
+**Target:** 84 exercises | **Focus:** Logical connectors
+**Key Topics:** because (reason), so (result), but (contrast), although (concession), punctuation rules
+
+---
+
+### Module 23: Relative Clauses - Who, Which, That, Where
+Describe and define people, things, and places with relative clauses. Build detailed descriptions using who, which, that, and where.
+
+**Target:** 85 exercises | **Focus:** Relative pronouns
+**Key Topics:** who for people, which/that for things, where for places, defining relative clauses
+
+---
+
+### Module 24: Question Formation - Comprehensive Review Across All Tenses
+Master question formation across all A2 grammar structures. Review yes/no questions, wh-questions, and subject vs object questions.
+
+**Target:** 82 exercises | **Focus:** All question types
+**Key Topics:** yes/no questions, wh-question word order, subject questions, object questions, questions across all tenses
+
+---
+
+### Module 25: A2 Consolidation and Review - Integration and Real-World Communication
+Integrate all A2 grammar in authentic communication tasks. Demonstrate mastery across all skills and prepare for B1 transition.
+
+**Target:** 99 exercises | **Focus:** Integration and assessment
+**Key Topics:** tense integration, complex sentences, real-world scenarios, A2 self-assessment, B1 preview
+
+---
+
 ## Technical Details
 
 ### Feedback System
@@ -409,13 +449,13 @@ Use the `generate_modules.py` script as a template:
 
 The system is designed to scale to **160 modules** (A1-C2):
 - **A1**: 20 modules ✓ COMPLETE (80 notebooks)
-- **A2**: 25 modules (Batch 1: Modules 1-5 ✓ - 20 notebooks | Batch 2: Modules 6-10 ✓ - 20 notebooks | Batch 3: Modules 11-15 ✓ - 20 notebooks | Batch 4: Modules 16-20 ✓ - 20 notebooks | Batch 5: Modules 21-25 - Planned)
+- **A2**: 25 modules COMPLETE ✅ (Batch 1: Modules 1-5 ✓ - 20 notebooks | Batch 2: Modules 6-10 ✓ - 20 notebooks | Batch 3: Modules 11-15 ✓ - 20 notebooks | Batch 4: Modules 16-20 ✓ - 20 notebooks | Batch 5: Modules 21-25 ✓ - 20 notebooks)
 - **B1**: 30 modules (Planned)
 - **B2**: 35 modules (Planned)
 - **C1**: 30 modules (Planned)
 - **C2**: 20 modules (Planned)
 
-**Current Status:** 160 interactive notebooks created across A1 and A2 levels (40/160 modules = 25%)
+**Current Status:** 180 interactive notebooks created across A1 and A2 levels (45/160 modules = 28%) - A2 COMPLETE ✅
 
 See `English-Path.md` for the complete curriculum specification.
 
