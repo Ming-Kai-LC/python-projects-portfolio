@@ -5,9 +5,9 @@ Welcome to the A2 (Elementary) level of the English Learning Notebooks! This lev
 ## Overview
 
 **Target Level:** A2 (Elementary) according to CEFR
-**Current Status:** Batch 1 Complete (Modules 1-5) ✅ | Batch 2 Complete (Modules 6-10) ✅ | Batch 3 Complete (Modules 11-15) ✅ | Batch 4 Planned (Modules 16-25)
+**Current Status:** Batch 1 Complete (Modules 1-5) ✅ | Batch 2 Complete (Modules 6-10) ✅ | Batch 3 Complete (Modules 11-15) ✅ | Batch 4 Complete (Modules 16-20) ✅ | Batch 5 Planned (Modules 21-25)
 **Total A2 Modules Planned:** 25 modules
-**Completed:** 15/25 modules (60%)
+**Completed:** 20/25 modules (80%)
 **Estimated Time:** 100-150 hours (cumulative 180-200 hours including A1)
 
 ## What You'll Learn at A2 Level
@@ -277,6 +277,93 @@ At A2 level, you will be able to:
 
 ---
 
+## A2 Batch 4: Comparisons and Descriptions (Modules 16-20) ✅ COMPLETE
+
+### Module 16: Comparative Adjectives - Formation and Use
+**Focus:** Comparing two things
+
+**What You'll Learn:**
+- Form comparatives correctly: -er, more + adjective, irregular forms
+- Apply spelling rules when adding -er (double consonants, -y to -i)
+- Use 'than' correctly in comparative sentences
+- Distinguish between short adjective + -er and long adjective + more
+- Use irregular comparatives: better, worse, farther
+
+**Exercise Count:** 85 exercises
+**Estimated Time:** 5-6 hours
+
+**Start Here:** `Module_16/01_introduction.ipynb`
+
+---
+
+### Module 17: Superlative Adjectives - The Best, The Biggest, The Most
+**Focus:** Describing extremes
+
+**What You'll Learn:**
+- Form superlatives: the + adjective + -est, the most + adjective
+- Apply the same spelling rules as comparatives
+- Use superlatives with 'in' (the tallest in the class) and 'of' (the best of all)
+- Master irregular superlatives: the best, the worst, the farthest
+- Combine with 'one of the' for emphasis
+
+**Exercise Count:** 85 exercises
+**Estimated Time:** 5-6 hours
+
+**Start Here:** `Module_17/01_introduction.ipynb`
+
+---
+
+### Module 18: As...As Comparisons - Equality and Inequality
+**Focus:** Showing things are the same or different
+
+**What You'll Learn:**
+- Form equality comparisons: as + adjective + as
+- Form inequality comparisons: not as + adjective + as
+- Understand when to use as...as vs comparative forms
+- Use as...as with quantities: as much as, as many as
+- Practice common expressions: as soon as possible, as well as
+
+**Exercise Count:** 82 exercises
+**Estimated Time:** 4-5 hours
+
+**Start Here:** `Module_18/01_introduction.ipynb`
+
+---
+
+### Module 19: Adverbs of Manner and Comparison
+**Focus:** How things happen - quickly, carefully, well
+
+**What You'll Learn:**
+- Form adverbs from adjectives: adjective + -ly
+- Learn irregular adverbs: well (not goodly), fast, hard
+- Place adverbs correctly in sentences
+- Distinguish between adjectives and adverbs
+- Form comparative and superlative adverbs
+
+**Exercise Count:** 84 exercises
+**Estimated Time:** 5-6 hours
+
+**Start Here:** `Module_19/01_introduction.ipynb`
+
+---
+
+### Module 20: Intensifiers and Descriptive Language
+**Focus:** Very, quite, too, enough - adding degree and intensity
+
+**What You'll Learn:**
+- Use very/really/quite to intensify adjectives and adverbs
+- Understand 'too' for excessive degree (too expensive, too difficult)
+- Use 'enough' correctly (adjective + enough, enough + noun)
+- Distinguish between very (neutral) and too (negative implication)
+- Combine intensifiers with comparatives for emphasis
+
+**Exercise Count:** 84 exercises
+**Estimated Time:** 4-5 hours
+
+**Start Here:** `Module_20/01_introduction.ipynb`
+
+---
+
 ## How to Use This Level
 
 ### Prerequisites
@@ -392,7 +479,7 @@ After completing Batch 1 (Modules 1-5), you should be able to:
 3. **Continue to Next Batch:**
    - Batch 2 (Modules 6-10): Future and Time ✅ COMPLETE
    - Batch 3 (Modules 11-15): Modal Verbs ✅ COMPLETE
-   - Batch 4 (Modules 16-20): Comparisons and Descriptions (Planned)
+   - Batch 4 (Modules 16-20): Comparisons and Descriptions ✅ COMPLETE
    - Batch 5 (Modules 21-25): Advanced A2 Structures (Planned)
 
 ## Support
@@ -435,7 +522,7 @@ Module_XX/
 - 🧠 **Mistakes are learning opportunities.** Each error helps your brain remember the correct form.
 - 📈 **A2 is where you become conversational.** You're learning to express yourself naturally.
 - ⏰ **Consistency beats intensity.** 30 minutes daily > 3 hours once a week.
-- 🌟 **You're 21.9% through the full curriculum!** (35/160 modules completed across A1 and A2)
+- 🌟 **You're 25% through the full curriculum!** (40/160 modules completed across A1 and A2)
 
 ---
 

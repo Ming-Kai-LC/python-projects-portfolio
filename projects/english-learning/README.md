@@ -4,7 +4,7 @@
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-A comprehensive, research-backed English grammar learning system built with Jupyter Notebooks. **A1 (Beginner) level is complete** with all **20 interactive modules**, and **A2 (Elementary) level is progressing** with Batches 1-3 (Modules 1-15) covering past tense mastery, future & time structures, and modal verbs, all following proven pedagogical methodologies.
+A comprehensive, research-backed English grammar learning system built with Jupyter Notebooks. **A1 (Beginner) level is complete** with all **20 interactive modules**, and **A2 (Elementary) level is progressing** with Batches 1-4 (Modules 1-20) covering past tense mastery, future & time structures, modal verbs, and comparisons & descriptions, all following proven pedagogical methodologies.
 
 ## Overview
 
@@ -56,7 +56,7 @@ english-learning/
 │   │   ├── Module_08/          # Adjectives
 │   │   ├── Module_09/          # There Is/Are
 │   │   └── Module_10-20/       # ... (see module descriptions below)
-│   ├── A2/                     # Batches 1-3: 15 modules (Modules 1-15)
+│   ├── A2/                     # Batches 1-4: 20 modules (Modules 1-20)
 │   │   ├── Module_01/          # Past Continuous Formation
 │   │   ├── Module_02/          # Past Continuous vs Past Simple
 │   │   ├── Module_03/          # Past Continuous for Interrupted Actions
@@ -71,7 +71,12 @@ english-learning/
 │   │   ├── Module_12/          # Must/Have To - Obligation and Necessity
 │   │   ├── Module_13/          # Don't Have To vs Mustn't
 │   │   ├── Module_14/          # May/Might/Could - Possibility and Permission
-│   │   └── Module_15/          # Would Like - Polite Requests
+│   │   ├── Module_15/          # Would Like - Polite Requests
+│   │   ├── Module_16/          # Comparative Adjectives - Formation and Use
+│   │   ├── Module_17/          # Superlative Adjectives - The Best, The Biggest
+│   │   ├── Module_18/          # As...As Comparisons - Equality
+│   │   ├── Module_19/          # Adverbs of Manner and Comparison
+│   │   └── Module_20/          # Intensifiers - Very, Quite, Too, Enough
 │   ├── reviews/
 │   │   ├── A1_Review_Modules_1-5.ipynb
 │   │   └── ... (additional review notebooks)
@@ -239,7 +244,7 @@ Master frequency expressions to describe how often you do things.
 
 ## A2 Level Modules (Elementary)
 
-**Status:** Batch 1 (Modules 1-5) - COMPLETE ✅ | Batch 2 (Modules 6-10) - COMPLETE ✅ | Batch 3 (Modules 11-15) - COMPLETE ✅ | Batch 4 (Modules 16-25) - Planned
+**Status:** Batch 1 (Modules 1-5) - COMPLETE ✅ | Batch 2 (Modules 6-10) - COMPLETE ✅ | Batch 3 (Modules 11-15) - COMPLETE ✅ | Batch 4 (Modules 16-20) - COMPLETE ✅ | Batch 5 (Modules 21-25) - Planned
 
 ### Module 01: Past Continuous Formation
 Master was/were + verb-ing for actions in progress in the past. Learn spelling rules, time expressions, and uses for interrupted actions and story backgrounds.
@@ -331,6 +336,36 @@ Make polite requests, offers, and express preferences using 'would like' instead
 **Target:** 85 exercises | **Focus:** Polite communication
 **Key Topics:** Would like + noun, would like to + verb, contractions, making offers, polite requests
 
+### Module 16: Comparative Adjectives - Formation and Use
+Compare two things using comparative adjectives. Master formation rules, spelling changes, and use 'than' correctly.
+
+**Target:** 85 exercises | **Focus:** Comparing two things
+**Key Topics:** -er vs more, spelling rules (double consonants, -y to -i), 'than' usage, irregular comparatives (better/worse)
+
+### Module 17: Superlative Adjectives - The Best, The Biggest, The Most
+Describe extremes among three or more items using superlative adjectives. Always use 'the' with superlatives.
+
+**Target:** 85 exercises | **Focus:** Describing extremes
+**Key Topics:** -est vs most, spelling rules, in/of phrases, irregular superlatives, 'one of the' + superlative
+
+### Module 18: As...As Comparisons - Equality and Inequality
+Express that things are the same or different using as...as structures. Learn when to use this vs comparative forms.
+
+**Target:** 82 exercises | **Focus:** Equality comparisons
+**Key Topics:** as + adjective + as, not as + adjective + as, as much/many as, common expressions
+
+### Module 19: Adverbs of Manner and Comparison
+Describe how actions are performed using adverbs. Learn formation rules and distinguish adverbs from adjectives.
+
+**Target:** 84 exercises | **Focus:** Describing how things happen
+**Key Topics:** adjective + -ly, irregular adverbs (well/fast/hard), placement, comparative/superlative adverbs
+
+### Module 20: Intensifiers and Descriptive Language
+Add depth and precision to descriptions using intensifiers. Master very, quite, too, and enough.
+
+**Target:** 84 exercises | **Focus:** Degree and intensity
+**Key Topics:** very/really/quite, too (excessive), enough (sufficiency), combining with comparatives
+
 ---
 
 ## Technical Details
@@ -374,13 +409,13 @@ Use the `generate_modules.py` script as a template:
 
 The system is designed to scale to **160 modules** (A1-C2):
 - **A1**: 20 modules ✓ COMPLETE (80 notebooks)
-- **A2**: 25 modules (Batch 1: Modules 1-5 ✓ - 20 notebooks | Batch 2: Modules 6-10 ✓ - 20 notebooks | Batch 3: Modules 11-15 ✓ - 20 notebooks | Batch 4: Modules 16-25 - Planned)
+- **A2**: 25 modules (Batch 1: Modules 1-5 ✓ - 20 notebooks | Batch 2: Modules 6-10 ✓ - 20 notebooks | Batch 3: Modules 11-15 ✓ - 20 notebooks | Batch 4: Modules 16-20 ✓ - 20 notebooks | Batch 5: Modules 21-25 - Planned)
 - **B1**: 30 modules (Planned)
 - **B2**: 35 modules (Planned)
 - **C1**: 30 modules (Planned)
 - **C2**: 20 modules (Planned)
 
-**Current Status:** 140 interactive notebooks created across A1 and A2 levels (35/160 modules = 21.9%)
+**Current Status:** 160 interactive notebooks created across A1 and A2 levels (40/160 modules = 25%)
 
 See `English-Path.md` for the complete curriculum specification.
 
